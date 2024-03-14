@@ -1,0 +1,42 @@
+ menu:
+            - category: starters
+              items:
+                - name: Nachos
+                  description: salsa,  cheese,  cottage cheese, guacamole
+                  price: R58
+                - name: Samoosa Platter
+                  description: platter of 5 samoosas, filled with spicy chicken
+                  price: R38
+                - name: Chicken Livers
+                  description: served in creamy chipotle sauce, accompanied with 2 pieces of ciabatta bread
+                  price: R78
+                - name: Buffalo Wings
+                  description: 12 spicy wings, served with Durky Sauce & Roquefort Dressing
+                  price: R129
+
+            - category: Mains
+              items:
+                - name: Butter Chicken
+                  description: served with basmati &jeera seed rice and naan
+                  price: R144
+                - name: Spare Ribs
+                  description: 800g,  marinated in a special bbq basting, served with chips and veggies
+                  price: R279
+                - name: Cheese Burger
+                  description: classic beef burger with melted cheese, served with chips
+                  price: R98
+                - name: Roast Chicken Mayo sandwich
+                  description: white/brown toasted bread, served with chips
+                  price: R55
+
+            - category: Desserts
+              items:
+                - name: Chocolate Brownie
+                  description: warm, sticky fudge brownie, served with ice cream or cream
+                  price: R69
+                - name: Classic Waffle
+                  description: traditional waffle, served with ice cream or cream, with maple syrup
+                  price: R52
+                - name: Ice Cream
+                  description: vanilla flavored soft serve, with chocolate sauce
+                  price: R35
