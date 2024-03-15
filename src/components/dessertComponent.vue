@@ -27,7 +27,7 @@
       async loadDesserts() {
         try {
           // Make a GET request to your API endpoint
-          const response = await axios.get('http://localhost:3000/api/data?category=desserts');
+          const response = await axios.get('https://restaurant-input-and-outputs-1.onrender.com/api/data?category=desserts');
   
           // Extract starters data from the response
           this.desserts = response.data.data;

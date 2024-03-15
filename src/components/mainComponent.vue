@@ -27,7 +27,7 @@
       async loadMains() {
         try {
           // Make a GET request to your API endpoint
-          const response = await axios.get('http://localhost:3000/api/data?category=mains');
+          const response = await axios.get('https://restaurant-input-and-outputs-1.onrender.com/api/data?category=mains');
   
           // Extract starters data from the response
           this.mains = response.data.data;
